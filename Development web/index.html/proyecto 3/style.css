@@ -1,0 +1,35 @@
+html{
+    background-color: #efefef;
+  }    
+  header{
+    text-align: center;
+    background-color: black;
+    color: White;
+    padding: 30px 40px;
+  }
+  main section{
+    width: 300px;
+    margin: 0 auto;
+
+  }
+  section article{
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px 5px;
+  }
+  footer{
+    background-color: black;
+    color: white;
+  }
+  footer a{
+    text-align: rigth;
+    margin: 0 auto;
+    color: #556;
+  }
+  footer p{
+    margin: 0 auto;
+    padding: 1rem;
+    
+  }
